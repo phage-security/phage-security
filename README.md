@@ -7,9 +7,10 @@
 ---
 
 If you have any questions or are seeking a security review for your project, reach out us at:
-X - [Pyro](https://x.com/0x3b33)
-Telegram - [Pyro](https://t.me/Pyro3b)
+- X - [Pyro](https://x.com/0x3b33)
+- Telegram - [Pyro](https://t.me/Pyro3b)
 
+---
 
 # Security Engagements
 | №  | Date  | Project |  Category | Vulnerabilities | Report | Language |
