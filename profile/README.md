@@ -13,6 +13,7 @@ Telegram - [Pyro](https://t.me/Pyro3b)
 
 # Security Engagements
 | №  | Date  | Project |  Category | Vulnerabilities | Report | Language |
+|:--|:--|:--|:--|:--|:--|:--|
 | 1  | 07.2025 | [Hikari](https://x.com/hikari_finance) | UNIv3 positions | 3H, 5M | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 2  | 08.2025 | [Foresight](https://x.com/foresightnow) | prediction market | 3H, 2M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 3  | 08.2025 | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 4H, 7M | [📑](https://github.com/phage-security/audits/blob/main/2025-08-Bounce.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
